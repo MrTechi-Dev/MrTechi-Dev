@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/codesectest" target="blank"><img src="https://img.shields.io/twitter/follow/codesectest?logo=twitter&style=for-the-badge" alt="codesectest" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Linux, Ryby**
+- 🌱 I’m currently learning **Docker, Kubernetes, Linux, Ruby**
 
 - 📝 I regularly write articles on [https://andres-bpulido.medium.com/](https://andres-bpulido.medium.com/)
 
