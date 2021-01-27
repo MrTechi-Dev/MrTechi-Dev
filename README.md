@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Barrera</h1>
-<h3 align="center">A passionate DevOps, AppSec, Software Engineering</h3>
+<h3 align="center">A passionate Software Engineer, DevOps, AppSec </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andres802&label=Profile%20views&color=0e75b6&style=flat" alt="andres802" /> </p>
 
