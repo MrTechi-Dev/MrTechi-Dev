@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/andresbpulido/](https://www.linkedin.com/in/andresbpulido/)
 
-- ⚡ Fun fact **"The only true wisdom is in knowing you know nothing"**
+- ⚡ Fun fact **"The only true wisdom is knowing you know nothing"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
