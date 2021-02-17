@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Barrera</h1>
 <h3 align="center">A passionate Software Engineer, DevOps, AppSec </h3>
 
+Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing can boost others peoples life!
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Linux, Ruby**
 
