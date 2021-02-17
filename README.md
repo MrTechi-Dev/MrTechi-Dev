@@ -12,16 +12,6 @@
 
 - ⚡ Fun fact **"The only true wisdom is knowing you know nothing"**
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          11 hrs 29 mins  ███████████████████████▒░   93.63 % 
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-```
-<!--END_SECTION:waka-->
-
 
 ## Github Stats 
 ![Andres's's github stats](https://github-readme-stats.vercel.app/api?username=Andres802&count_private=true&show_icons=true&hide_border=true)
