@@ -27,3 +27,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres802&show_icons=true&locale=en&layout=compact" alt="andres802" /></p>
 
+## Github Stats 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres802&layout=compact&hide_border=true&count_private=true&langs_count=6)
+![Andres's's github stats](https://github-readme-stats.vercel.app/api?username=Andres802&count_private=true&show_icons=true&hide_border=true)
+
