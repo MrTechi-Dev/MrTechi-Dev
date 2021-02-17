@@ -14,7 +14,7 @@ Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an
 - ⚡ Fun fact **"The only true wisdom is knowing you know nothing"**
 
 ## This Week Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Andres802=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andres802)](https://github.com/anuraghazra/github-readme-stats)
 ## Github Stats 
 ![Andres's's github stats](https://github-readme-stats.vercel.app/api?username=Andres802&count_private=true&show_icons=true&hide_border=true)
 ## Github Programming Languages
