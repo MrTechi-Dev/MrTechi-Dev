@@ -14,7 +14,7 @@ Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an
 - ⚡ Fun fact **"The only true wisdom is knowing you know nothing"**
 
 ## Github Stats 
-![Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres802&theme=chartreuse-dark_icons=true)
+![Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres802&theme=chartreuse-dark&show_icons=true)
 ## Github Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres802&layout=compact&hide_border=true&count_private=true&langs_count=20)
 
