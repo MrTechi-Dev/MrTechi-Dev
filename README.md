@@ -16,7 +16,7 @@ Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an
 ## Github Stats 
 ![Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres802&theme=chartreuse-dark&show_icons=true)
 ## Github Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres802&layout=compact&hide_border=true&count_private=true&langs_count=20)&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres802&layout=compact&hide_border=true&count_private=true&langs_count=20)
 
 
 <h3 align="left">Languages and Tools:</h3>
