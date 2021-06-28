@@ -9,7 +9,7 @@ Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an
 
 - 📫 How to reach me **andres.bpulido@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andresbpulido/](https://www.linkedin.com/in/andresbpulido/)
+- 📄 Know about my experiences [ask me]
 
 - ⚡ Fun fact **"The only true wisdom is knowing you know nothing"**
 
