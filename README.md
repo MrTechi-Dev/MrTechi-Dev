@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres Barrera</h1>
-<h3 align="center">A passionate Software Engineer, DevOps, AppSec </h3>
+<h3 align="center">A passionate Software Engineer, Data Engineer, GCP, AWS </h3>
 
-Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing can boost others peoples life!
+Hello coders!, I am a passionate Data Engineer from Colombia. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing can boost others peoples life!
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Linux, Ruby**
+- 🌱 I’m currently learning **Docker, Apache Beam, Apache Airfloww, Scala**
 
 - 📝 I regularly write articles on [https://andres-bpulido.medium.com/](https://andres-bpulido.medium.com/)
 
