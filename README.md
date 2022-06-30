@@ -3,7 +3,7 @@
 
 Hello coders!, I am a passionate Data Engineer from Colombia. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing can boost others peoples life!
 
-- 🌱 I’m currently learning **Docker, Apache Beam, Apache Airfloww, Scala**
+- 🌱 I’m currently learning **Docker, Apache Beam, Apache Airflow, Scala**
 
 - 📝 I regularly write articles on [https://andres-bpulido.medium.com/](https://andres-bpulido.medium.com/)
 
